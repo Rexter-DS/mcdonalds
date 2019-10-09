@@ -1,0 +1,86 @@
+.ui.topmenu.borderless.menu {
+  margin-top: -20px;
+}
+
+.first.ui.menu {
+  border: none;
+  box-shadow: none;
+  margin-bottom: -20px;
+}
+
+.grey.text.item {
+  color: grey;
+}
+.second.ui.menu {
+  border: none;
+  box-shadow: none;
+  font-size: large;
+  padding-left: 10px;
+}
+
+.right.menu {
+  padding-left: 350px;
+}
+
+.ui.borderless.menu {
+  border: none;
+}
+
+.grad-background {
+  background-image: url("https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/carousel/HPH_WakeUpBrek_Desktop_1260x560.jpg?$Hero_Desktop$");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 500px;
+  margin-top: 50px;
+}
+
+.ui.container.colorblocktop {
+  padding-left: 40px;
+  padding-top: 300px;
+}
+
+h1 {
+  font-family: Roboto;
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+p {
+  font-family: Roboto;
+}
+.ui.button {
+  background-color: #ffbc0d;
+}
+
+.ui.footer.container {
+  padding-top: 50px;
+  padding-left: 30px;
+}
+.second.row {
+  padding-top: 20px;
+}
+
+.ui.relaxed.list {
+  color: grey;
+}
+
+.ui.footer.borderless.menu {
+  border: none;
+  box-shadow: none;
+  margin-bottom: 30px;
+  padding-left: 20px;
+}
+
+.ui.footer.image {
+  height: 35px;
+}
+
+hr {
+  margin-left: 20px;
+}
+.ui.legal.borderless.menu {
+  box-shadow: none;
+  border: none;
+  padding-top: 20px;
+  margin-bottom: 100px;
+}
